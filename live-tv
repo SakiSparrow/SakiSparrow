@@ -1,33 +1,32 @@
-http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTM3U
 
 #SOURCEIT
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  (BDIX8_2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  (BDIX8_2)
 http://172.16.128.2/live/sky1005/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 0   (BDIX7)
-http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 0   (BDIX7)
+http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  (wow)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1  (wow)
 http://172.27.27.90:8080/tv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (wow)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2 (wow)
 http://172.27.27.90:8080/tv3/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (Temporary)
 http://tv.fnfonlinebd.com/live/fnffeed1006/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (Temporary)
 http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (temporary)
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (temporary)
 http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7 (temporary)
 http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8 (BDIX13)
@@ -36,23 +35,20 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (ICC)
 http://10.16.100.211/sports/gazitv@.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (ICC)
-http://10.16.100.209/sports/gazi@tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX3)
 http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX7)
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX16)
+http://bciptv.net:8082/GAZI-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX14)
 http://103.55.144.46/hls/Gazi-TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX16)
-http://103.149.130.122:8089/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX16)
-http://bciptv.net:8082/GAZI-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (ICC)
+http://10.16.100.209/sports/gazi@tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
 http://103.102.27.172:6464/Channel-1/index.m3u8
