@@ -11,22 +11,22 @@ http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1  (wow)
 http://172.27.27.90:8080/tv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2 (wow)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2  (wow)
 http://172.27.27.90:8080/tv3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (Temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (Temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7 (temporary)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8 (BDIX13)
@@ -35,7 +35,7 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (ICC)
 http://10.16.100.211/sports/gazitv@.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX7)
