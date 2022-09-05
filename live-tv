@@ -158,7 +158,7 @@ https://tv.kotha.im/Deepto_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (ICC)
 http://10.16.100.203:8082/bangla/deepto.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV 
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDcableTV)
 http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDIX17)
