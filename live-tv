@@ -179,8 +179,8 @@ https://tv.kotha.im/Desh_TV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX17)
 https://tv.kotha.im/Duronto_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX14)
-http://103.55.144.46/hls/nexus.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (SKnet)
+http://103.135.133.2:8081/sports/71ekattoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
