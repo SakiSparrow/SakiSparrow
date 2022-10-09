@@ -5,6 +5,15 @@
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  (BDIX8_2)
 http://172.16.128.2/live/sky1005/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX8_2)
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX8_2)
+http://172.16.128.2:8081/live/sky2005/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX16)
+http://15.1.5.14:8082/en3-34/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports    (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
