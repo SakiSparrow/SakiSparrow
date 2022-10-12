@@ -173,6 +173,10 @@ http://15.1.5.14:8082/depto-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDcableTV)
 http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (bas)
+http://10.99.99.99:4444/duronto-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (p)
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
 
