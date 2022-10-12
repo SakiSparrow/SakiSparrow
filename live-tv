@@ -77,7 +77,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/asiantv.png" group-title="Bangla",Asian TV (BDIX16)
 http://15.1.5.14:8082/AsianTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/anandotv.jpg" group-title="Bangla",Ananda TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla",Ananda TV (BDIX0)
 https://tempx.jagobd.com:441/live-orgin/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
@@ -149,13 +149,13 @@ http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangla",Channel 24 (BDIX16)
 http://15.1.5.14:8082/Channel24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (BDIX0)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/dbcnews.png" group-title="Bangla",DBC News HD (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/dbcnews.png" group-title="Bangla",DBC News HD (BDIX7)
 http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (BDIX16)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/dbcnews.png" group-title="Bangla",DBC News HD (BDIX16)
 http://15.1.5.14:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deeptotv.png" group-title="Bangla",Deepto TV (BDIX16)
@@ -203,7 +203,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX16)
 http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX16)
@@ -288,7 +288,7 @@ http://172.27.27.90:8080/tv4/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (BDIX7)
 http://12.1.1.1:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX8)
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (BDIX8)
 http://172.16.50.2:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (fnf)
@@ -300,8 +300,8 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Bas)
 http://10.99.99.99:4444/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
-http://103.102.27.172:6464/Channel-2/index.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T Sports HD (BDIX8)
+http://172.16.50.2:8082/Live-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (BDIX8_2)
 http://172.16.128.2:8081/live/sky2006/chunks.m3u8
@@ -357,7 +357,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/madani-channel-bangla.jpg" group-title="Islamic", Madani TV
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet (BDIX7)
+#EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/animalplanet.png" group-title="Documentary",Animal Planet  (BDIX7)
 http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/animalplanet.png" group-title="Documentary",Animal Planet (BDIX16)
@@ -372,7 +372,7 @@ http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (BDIX14)
 http://103.55.144.46/hls/dis-science.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic (BDIX7)
+#EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic (BDIX7)
 http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic (BDIX16)
@@ -390,8 +390,7 @@ http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bbcearthhd.jpg"  group-title="Documentary", Sony BBC Earth  (BDIX8)
 http://172.16.50.2:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth (BDIX7)
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bbcearthhd.jpg"  group-title="Documentary", Sony BBC Earth(BDIX7)
 http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP 
@@ -406,7 +405,7 @@ http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX8)
 http://172.16.50.2:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX7
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX7)
 http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png"  group-title="Sports",A Sports HD (pk)
@@ -415,14 +414,10 @@ http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg"  group-title="Sports", Geo Super ( PK )
 http://221.120.204.3/geo-super-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X1HtTmr.png"  group-title="Sports", DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"  group-title="Sports",Sony Ten 1 HD (BDIX16)
 http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten1hd.jpg"  group-title="Sports",Sony Ten 1 HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"   group-title="Sports",Sony Ten 1 HD (BDIX7)
 http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"  group-title="Sports",Sony Ten 1 HD (BDIX8_2)
@@ -434,7 +429,7 @@ http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 (BDIX16)
 http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten2hd.jpg"  group-title="Sports",Sony Ten 2  (BDIX7)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2  (BDIX7)
 http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 (BDIX16)
@@ -443,16 +438,13 @@ http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 HD (BDIX8_2)
 http://172.16.128.2:8081/live/sky1008/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten3hd.jpg"  group-title="Sports",Sony Ten 3 HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten3hd.png"  group-title="Sports",Sony Ten 3 HD (BDIX7)
 http://stream.amrbd.com:8082/Ten3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/sonysixhd.jpg"  group-title="Sports",Sony Six (BDIX1)
-http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD (BDIX16)
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/sonysixhd.jpg"  group-title="Sports",Sony Six HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD (BDIX7)
 http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD (BDIX8_2)
@@ -480,7 +472,7 @@ http://172.16.50.2:8082/Star-Sports-2/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.252.253.254/img/ster-sport-2hd.png" group-title="Sports", Star Sports 2 HD (BDIX16)
 http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pasteboard.co/Bvl76yaECDCH.png" group-title="Sports", Star Sports 2 HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://10.252.253.254/img/ster-sport-2hd.png" group-title="Sports", Star Sports 2 HD (BDIX7)
 http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX7)
@@ -495,7 +487,7 @@ http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect1.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX8)
 http://172.16.50.2:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png"  group-title="Sports",Star Sports Select 2 HD (BDIX7)
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD  (BDIX7)
 http://stream.amrbd.com:8082/Star-Select-2/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD  (BDIX8)
