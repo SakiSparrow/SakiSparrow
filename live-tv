@@ -2,14 +2,14 @@
 
 #SOURCEIT
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  (BDIX8_2)
-http://172.16.128.2/live/sky1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  
+http://live.mymoviebazar.net/stream101.m3u8?|Referer=http://mymoviebazar.net/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX8_2)
-http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  
+http://live.mymoviebazar.net/stream102.m3u8?|Referer=http://mymoviebazar.net/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX8_2)
-http://172.16.128.2:8081/live/sky2005/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
+http://live.mymoviebazar.net/stream103.m3u8?|Referer=http://mymoviebazar.net/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX16)
 http://15.1.5.14:8082/en3-34/index.m3u8
@@ -17,37 +17,37 @@ http://15.1.5.14:8082/en3-34/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports    (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 0  (BDIX8_2)
-http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1  (BDIX8_2)
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX8)
-http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2  (BDIX8_2)
+http://172.16.128.2:8081/live/sky2003/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2 (BDIX8)
-http://172.16.50.2:8082/Live-Sports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3  (wow)
-http://172.27.27.90:8080/tv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3  (BDIX8_2)
+http://172.16.128.2:8081/live/sky2002/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4  (wow)
+http://172.27.27.90:8080/tv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5  (wow)
 http://172.27.27.90:8080/tv3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8 (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 10  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9 (BDIX7)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 11 (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV HD (BDIX8)
@@ -112,9 +112,6 @@ http://15.1.5.14:8082/bangla-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX8)
-http://172.16.50.2:8082/Boishakhi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX7)
 http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
