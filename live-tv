@@ -9,7 +9,7 @@ http://live.mymoviebazar.net/stream101.m3u8?|Referer=http://mymoviebazar.net/
 http://live.mymoviebazar.net/stream102.m3u8?|Referer=http://mymoviebazar.net/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
-http://live.mymoviebazar.net/stream103.m3u8?|Referer=http://mymoviebazar.net/
+http://live.mymoviebazar.net/stream104.m3u8?|Referer=http://mymoviebazar.net/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX16)
 http://15.1.5.14:8082/en3-34/index.m3u8
