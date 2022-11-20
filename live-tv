@@ -5,44 +5,56 @@
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports   (BDIX16)
 http://15.1.5.14:8082/en3-34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports    (BDIX7)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 0   (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1  (BDIX8_2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 1 (BDIX8_2)
+http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 2  (BDIX8_2)
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 3  (BDIX8_2)
 http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 2  (BDIX8_2)
-http://172.16.128.2:8081/live/sky2003/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3  (BDIX8_2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 4  (BDIX8_2)
 http://172.16.128.2:8081/live/sky2002/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4  (wow)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 5  (BDIX8_2)
+http://172.16.128.2:8081/live/sky2003/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 6  (BDIX8_2)
+http://172.16.128.2:8081/live/sky1012/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 7 (BDIX8_2)
+http://172.16.128.2:8081/live/sky1008/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yf2tre6m" group-title="Live Sports", Live Sports 8 (BDIX8_2)
+http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9  (wow)
 http://172.27.27.90:8080/tv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5  (wow)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 10  (wow)
 http://172.27.27.90:8080/tv3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 11 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 12 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 13(fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9 (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 14 (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 10  (fnf)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 15  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 11 (BDIX7)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 16 (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV HD (BDIX8)
-http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV  (BDIX8_2)
 http://172.16.128.2:8081/live/sky1010/playlist.m3u8
@@ -56,7 +68,7 @@ http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (fnf)
 http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (bas)
+EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (bas)
 http://10.99.99.99:4444/gazi-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (p)
@@ -116,8 +128,8 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (JagoBD)
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (bas)
-http://10.99.99.99:4444/channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 
+http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -155,8 +167,8 @@ http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deeptotv.png" group-title="Bangla",Deepto TV (BDIX16)
 http://15.1.5.14:8082/depto-bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (bas)
-http://10.99.99.99:4444/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV 
+http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Bangla",Duronto TV (BDIX16)
 http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8
@@ -167,8 +179,8 @@ http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ekattortv.png" group-title="Bangla",Ekattor TV (BDIX16)
 http://15.1.5.14:8082/Ekattor-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ekattortv.png" group-title="Bangla",Ekattor TV (BAS)
-http://10.99.99.99:4444/ekattor/index.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ekattortv.png" group-title="Bangla",Ekattor TV 
+http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
@@ -284,9 +296,6 @@ http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (p)
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Bas)
-http://10.99.99.99:4444/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T Sports HD (BDIX8)
 http://172.16.50.2:8082/Live-Sports/index.m3u8
